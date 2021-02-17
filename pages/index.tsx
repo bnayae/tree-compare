@@ -1,6 +1,6 @@
 import React from 'react';
-import { RcTree } from '../components/RC';
+import { MaterialTree } from '../components/Material';
 
-const IndexPage = () => <RcTree />;
+const IndexPage = () => <MaterialTree />;
 
 export default IndexPage;

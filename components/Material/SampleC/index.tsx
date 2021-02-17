@@ -1,0 +1,1 @@
+export { SampleC } from './SampleC';
